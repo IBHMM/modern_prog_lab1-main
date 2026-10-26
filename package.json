@@ -1,0 +1,14 @@
+{
+  "name": "modern_prog_lab1-main",
+  "version": "1.0.0",
+  "description": "Lab work for **MİF-0902 Modern Programming Languages Technologies** (Master's, 2026/2027).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

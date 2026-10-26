@@ -222,3 +222,4 @@ Your own work stays as it is. Published lab files are not changed afterwards, so
 | The Actions tab shows nothing | Open the tab once and enable workflows if GitHub asks, then push again. |
 | I cannot install Git | Create the private repository as in step 2, then use **Add file → Upload files** on github.com to upload the `lab1` folder. Tell the instructor, because you will not be able to pull later labs this way. |
 # modern_prog_lab1-main
+# modern_prog_lab1-main
